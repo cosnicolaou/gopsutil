@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/internal/common"
+	"github.com/cosnicolaou/gopsutil/v3/internal/common"
 	"github.com/tklauser/go-sysconf"
 )
 
